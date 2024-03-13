@@ -1,0 +1,28 @@
+.top-bar{
+    padding: 1rem 0; 
+    
+}
+
+.navbar-brand{
+    font-size: 1.25rem;
+}
+.btn-light{
+    background-color: #fff;
+    color: #212529;
+
+    &:hover{
+        color: $primary;  
+    }
+
+    &:hover i{
+        color: $primary;
+     }
+
+    i{
+        color: rgb(157, 161, 167); 
+    }
+}
+
+
+
+
